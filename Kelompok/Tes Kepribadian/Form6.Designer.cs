@@ -44,6 +44,7 @@
             this.button1.TabIndex = 31;
             this.button1.Text = "Selanjutnya";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // radioButton4
             // 
@@ -56,6 +57,7 @@
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Tidak tertarik pada perkumpulan atau kelompok.";
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged);
             // 
             // radioButton3
             // 
@@ -69,6 +71,7 @@
             this.radioButton3.Text = "Tuntutannya akan kesempurnaan terlalu tinggi dan dapat membuat orang lain menjauh" +
     "inya.";
             this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
             // radioButton2
             // 
@@ -81,6 +84,7 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Merasa sulit memperlihatkan kasih sayang dengan terbuka.";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // radioButton1
             // 
@@ -94,6 +98,7 @@
             this.radioButton1.Text = "Bisa bergairah sesaat dan sedih pada saat berikutnya. \r\nBersedia membantu kemudia" +
     "n  menghilang. \r\nBerjanji akan datang tapi kemudian lupa untuk muncul.";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // label1
             // 

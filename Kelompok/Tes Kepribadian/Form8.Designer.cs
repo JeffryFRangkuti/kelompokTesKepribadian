@@ -44,6 +44,7 @@
             this.button1.TabIndex = 37;
             this.button1.Text = "Selanjutnya";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // radioButton4
             // 
@@ -57,6 +58,7 @@
             this.radioButton4.Text = "Menilai pekerjaan dan kegiatan dengan ukuran \r\nberapa banyak tenaga yang dibutuhk" +
     "an.";
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged);
             // 
             // radioButton3
             // 
@@ -69,6 +71,7 @@
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Memerlukan banyak waktu pribadi dan cenderung menghindari orang lain.";
             this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
             // radioButton2
             // 
@@ -81,6 +84,7 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Tidak ragu-ragu mengatakan benar dan dapat memegang kendali.";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // radioButton1
             // 
@@ -93,6 +97,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Tawa dan suaranya dapat didengar di atas suara lainnya di di dalam ruangan.";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // label1
             // 
