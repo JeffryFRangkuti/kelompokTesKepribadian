@@ -1,2 +1,25 @@
 E:\a\Kelompok\Tes Kepribadian\bin\Debug\Tes Kepribadian.exe.config
-E:\a\pak ronsen\Kelompok\Tes Kepribadian\bin\Debug\Tes Kepribadian.exe.config
+E:\a\Kelompok\Tes Kepribadian\bin\Debug\Tes Kepribadian.exe
+E:\a\Kelompok\Tes Kepribadian\bin\Debug\Tes Kepribadian.pdb
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes Kepribadian.csprojResolveAssemblyReference.cache
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form1.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form10.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form11.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form12.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form13.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form14.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form15.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form16.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form17.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form2.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form3.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form4.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form5.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form6.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form7.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form8.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Form9.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes_Kepribadian.Properties.Resources.resources
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes Kepribadian.csproj.GenerateResource.Cache
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes Kepribadian.exe
+E:\a\Kelompok\Tes Kepribadian\obj\Debug\Tes Kepribadian.pdb

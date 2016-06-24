@@ -57,6 +57,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Suka pamer, memperlihatkan apa yang gemerlap dan kuat, terlalu bersuara.";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // radioButton2
             // 
@@ -70,6 +71,7 @@
             this.radioButton2.Text = "Suka memerintah, mendominasi, kadang-kadang mengesalkan antar hubungan\r\norang dew" +
     "asa.";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // radioButton3
             // 
@@ -82,6 +84,7 @@
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Menghindari perhatian akibat rasa malu.";
             this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
             // radioButton4
             // 
@@ -94,6 +97,7 @@
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Memperlihatkan sedikit emosi/mimik.";
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged);
             // 
             // button1
             // 
@@ -103,6 +107,7 @@
             this.button1.TabIndex = 2;
             this.button1.Text = "Selanjutnya";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 

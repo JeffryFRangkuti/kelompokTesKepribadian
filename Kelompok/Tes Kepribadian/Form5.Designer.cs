@@ -44,6 +44,7 @@
             this.button1.TabIndex = 25;
             this.button1.Text = "Selanjutnya";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // radioButton4
             // 
@@ -56,6 +57,7 @@
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Lebih suka mundur dari situasi sulit.";
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged);
             // 
             // radioButton3
             // 
@@ -68,6 +70,7 @@
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Terlalu introspektif dan mudah tersinggung kalau disalahpahami.";
             this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged);
             // 
             // radioButton2
             // 
@@ -81,6 +84,7 @@
             this.radioButton2.Text = "Kadang-kadang menyatakan diri dengan cara yang agak\r\nmenyinggung perasaan dan kur" +
     "ang pertimbangan.";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // radioButton1
             // 
@@ -93,6 +97,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Suka berbicara dan sulit mendengarkan.";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // label1
             // 
