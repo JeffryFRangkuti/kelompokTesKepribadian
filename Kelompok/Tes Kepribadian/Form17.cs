@@ -16,5 +16,14 @@ namespace Tes_Kepribadian
         {
             InitializeComponent();
         }
+
+        private void Form17_Load(object sender, EventArgs e)
+        {
+            label1.Text = "Hasil nilai A anda   "+Program.a.ToString()+"     SANGUINIS ";
+            label2.Text = "Hasil nilai B anda   " + Program.b.ToString() + "     KOLERIS ";
+            label3.Text = "Hasil nilai C anda   " + Program.c.ToString() + "     MELANKOLIS ";
+            label4.Text = "Hasil nilai D anda   " + Program.d.ToString() + "     PLEGMATIS ";
+            label5.Text = "Nilai tertinggi adalah jenis kepridian anda..";
+        }
     }
 }

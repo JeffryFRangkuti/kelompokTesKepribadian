@@ -44,6 +44,7 @@
             this.button1.TabIndex = 85;
             this.button1.Text = "Selanjutnya";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // radioButton4
             // 
@@ -56,6 +57,7 @@
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Mudah menyesuaikan diri dan senang dalam setiap situasi.";
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged_1);
             // 
             // radioButton3
             // 
@@ -68,6 +70,7 @@
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Suka menyelidiki bagian-bagian yang logis.";
             this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged_1);
             // 
             // radioButton2
             // 
@@ -81,6 +84,7 @@
             this.radioButton2.Text = "Orang yang mau melakukan sesuatu hal yang baru dan \r\nberani bertekad untuk mengua" +
     "sainya.";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged_1);
             // 
             // radioButton1
             // 
@@ -94,6 +98,7 @@
             this.radioButton1.Text = "Penuh kehidupan, sering menggunakan isyarat tangan,\r\nlengan, dan wajah secara hid" +
     "up.";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // label1
             // 

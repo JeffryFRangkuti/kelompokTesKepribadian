@@ -44,6 +44,7 @@
             this.button1.TabIndex = 67;
             this.button1.Text = "Selanjutnya";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // radioButton4
             // 
@@ -56,6 +57,7 @@
             this.radioButton4.TabStop = true;
             this.radioButton4.Text = "Mudah puas dengan apa yang dimiliki, jarang iri hati.";
             this.radioButton4.UseVisualStyleBackColor = true;
+            this.radioButton4.CheckedChanged += new System.EventHandler(this.radioButton4_CheckedChanged_1);
             // 
             // radioButton3
             // 
@@ -68,6 +70,7 @@
             this.radioButton3.TabStop = true;
             this.radioButton3.Text = "Mengatur kehidupan, tugas, dan pemecahan masalah dengan membuat daftar.";
             this.radioButton3.UseVisualStyleBackColor = true;
+            this.radioButton3.CheckedChanged += new System.EventHandler(this.radioButton3_CheckedChanged_1);
             // 
             // radioButton2
             // 
@@ -80,6 +83,7 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Memegang kepemimpinan dan mengharapkan orang lain mengikuti.";
             this.radioButton2.UseVisualStyleBackColor = true;
+            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged_1);
             // 
             // radioButton1
             // 
@@ -92,6 +96,7 @@
             this.radioButton1.TabStop = true;
             this.radioButton1.Text = "Tak ternilai harganya, dicintai, pusat perhatian.";
             this.radioButton1.UseVisualStyleBackColor = true;
+            this.radioButton1.CheckedChanged += new System.EventHandler(this.radioButton1_CheckedChanged);
             // 
             // label1
             // 

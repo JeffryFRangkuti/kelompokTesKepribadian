@@ -16,5 +16,52 @@ namespace Tes_Kepribadian
         {
             InitializeComponent();
         }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            Program.a = Convert.ToInt32(+Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah);
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void radioButton3_CheckedChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void radioButton4_CheckedChanged(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void radioButton2_CheckedChanged_1(object sender, EventArgs e)
+        {
+            Program.b = Convert.ToInt32(+Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah);
+        }
+
+        private void radioButton3_CheckedChanged_1(object sender, EventArgs e)
+        {
+            Program.c = Convert.ToInt32(+Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah);
+        }
+
+        private void radioButton4_CheckedChanged_1(object sender, EventArgs e)
+        {
+            Program.d = Convert.ToInt32(+Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah + Program.penambah);
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            Form x = new Form16();
+            x.Show();
+            this.Hide();
+        }
     }
 }
